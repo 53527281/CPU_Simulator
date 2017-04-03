@@ -1,0 +1,8 @@
+	LI	R0, 1
+	LI	R1, 10
+	LI	R2, 20
+	LI	R4, 40
+	ADD	R3, R0, R1
+	SUB	R10, R4, R2
+	ADDI	R5, R0, 1
+	HLT
