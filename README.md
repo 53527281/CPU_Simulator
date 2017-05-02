@@ -16,3 +16,7 @@ Directory Descriptions
 Command Line Execution Format
 -----------------------------
 > cpusim instructions.txt data.txt output.txt
+
+Input format consists of simplified MIPS32 set instructions:
+
+* 
