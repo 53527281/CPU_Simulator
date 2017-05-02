@@ -17,6 +17,13 @@ Command Line Execution Format
 -----------------------------
 > cpusim instructions.txt data.txt output.txt
 
-Input format consists of simplified MIPS32 set instructions:
+Input format consists of following MIPS32 set instructions
 
-* 
+* LI, LW
+* ADD, ADDI
+* SUB, SUBI
+* MULTI
+* AND, ANDI
+* J
+* BEQ, BNE
+* HLT
